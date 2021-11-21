@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielB-0
-- 👀 I’m interested in Web Development, Gaming, Anime
+- 👀 I’m interested in Web Development, Programming, Gaming and Gaming Development, Anime, Bouldering
 - 🌱 I’m currently learning Web Development
 
 <!---
